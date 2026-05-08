@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Sarah</title>
-    <link>http://localhost:1313/website/posts/</link>
+    <link>https://sarah-not-found.github.io/website/posts/</link>
     <description>Recent content in Posts on Sarah</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 08 May 2026 14:55:29 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/website/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sarah-not-found.github.io/website/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/website/posts/001/</link>
+      <link>https://sarah-not-found.github.io/website/posts/001/</link>
       <pubDate>Fri, 08 May 2026 14:55:29 +0200</pubDate>
-      <guid>http://localhost:1313/website/posts/001/</guid>
+      <guid>https://sarah-not-found.github.io/website/posts/001/</guid>
+      <description>&lt;h3 id=&#34;hello-world&#34;&gt;Hello World!&lt;/h3&gt;&#xA;&lt;p&gt;Fingers crossed that this is finally working&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;And&lt;/li&gt;&#xA;&lt;li&gt;maybe&lt;/li&gt;&#xA;&lt;li&gt;even&lt;/li&gt;&#xA;&lt;li&gt;the&lt;/li&gt;&#xA;&lt;li&gt;formatting&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>My Seccond Post</title>
+      <link>https://sarah-not-found.github.io/website/posts/002/</link>
+      <pubDate>Fri, 08 May 2026 14:55:29 +0200</pubDate>
+      <guid>https://sarah-not-found.github.io/website/posts/002/</guid>
       <description>&lt;h3 id=&#34;hello-world&#34;&gt;Hello World!&lt;/h3&gt;&#xA;&lt;p&gt;Fingers crossed that this is finally working&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;And&lt;/li&gt;&#xA;&lt;li&gt;maybe&lt;/li&gt;&#xA;&lt;li&gt;even&lt;/li&gt;&#xA;&lt;li&gt;the&lt;/li&gt;&#xA;&lt;li&gt;formatting&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
   </channel>

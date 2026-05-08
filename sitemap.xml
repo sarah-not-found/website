@@ -2,17 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/website/posts/001/</loc>
+    <loc>https://sarah-not-found.github.io/website/posts/001/</loc>
     <lastmod>2026-05-08T14:55:29+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/website/posts/</loc>
+    <loc>https://sarah-not-found.github.io/website/posts/002/</loc>
     <lastmod>2026-05-08T14:55:29+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/website/</loc>
+    <loc>https://sarah-not-found.github.io/website/posts/</loc>
     <lastmod>2026-05-08T14:55:29+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/website/categories/</loc>
+    <loc>https://sarah-not-found.github.io/website/</loc>
+    <lastmod>2026-05-08T14:55:29+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/website/tags/</loc>
+    <loc>https://sarah-not-found.github.io/website/categories/</loc>
+  </url><url>
+    <loc>https://sarah-not-found.github.io/website/tags/</loc>
   </url>
 </urlset>
