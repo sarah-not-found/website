@@ -6,8 +6,40 @@
     <description>Recent content in Posts on Sarah</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 May 2026 14:55:29 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 17:06:29 +0200</lastBuildDate>
     <atom:link href="https://sarah-not-found.github.io/website/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fourth experimental post</title>
+      <link>https://sarah-not-found.github.io/website/posts/004/</link>
+      <pubDate>Sat, 09 May 2026 17:06:29 +0200</pubDate>
+      <guid>https://sarah-not-found.github.io/website/posts/004/</guid>
+      <description>&lt;p&gt;#COMPLETE MARKDOWN FORMATTING REFERENCE&lt;/p&gt;
+&lt;h1 id=&#34;heading&#34;&gt;=========================================================&lt;/h1&gt;
+&lt;h1 id=&#34;headings&#34;&gt;HEADINGS&lt;/h1&gt;
+&lt;h1 id=&#34;heading-1&#34;&gt;=========================================================&lt;/h1&gt;
+&lt;h1 id=&#34;heading-1-1&#34;&gt;Heading 1&lt;/h1&gt;
+&lt;h2 id=&#34;heading-2&#34;&gt;Heading 2&lt;/h2&gt;
+&lt;h3 id=&#34;heading-3&#34;&gt;Heading 3&lt;/h3&gt;
+&lt;h4 id=&#34;heading-4&#34;&gt;Heading 4&lt;/h4&gt;
+&lt;h5 id=&#34;heading-5&#34;&gt;Heading 5&lt;/h5&gt;
+&lt;h6 id=&#34;heading-6&#34;&gt;Heading 6&lt;/h6&gt;
+&lt;h1 id=&#34;alternative-heading-1&#34;&gt;Alternative Heading 1&lt;/h1&gt;
+&lt;h2 id=&#34;alternative-heading-2&#34;&gt;Alternative Heading 2&lt;/h2&gt;
+&lt;h1 id=&#34;heading-7&#34;&gt;=========================================================&lt;/h1&gt;
+&lt;h1 id=&#34;text-formatting&#34;&gt;TEXT FORMATTING&lt;/h1&gt;
+&lt;h1 id=&#34;heading-8&#34;&gt;=========================================================&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Bold&lt;/strong&gt;
+&lt;strong&gt;Bold&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Italic&lt;/em&gt;
+&lt;em&gt;Italic&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Bold Italic&lt;/strong&gt;&lt;/em&gt;
+&lt;em&gt;&lt;strong&gt;Bold Italic&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;Strikethrough&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Underline (HTML)&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Inserted Text&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Deleted Text&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Marked Text&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My First Post</title>
       <link>https://sarah-not-found.github.io/website/posts/001/</link>
@@ -28,7 +60,7 @@
       <link>https://sarah-not-found.github.io/website/posts/002/</link>
       <pubDate>Fri, 08 May 2026 14:55:29 +0200</pubDate>
       <guid>https://sarah-not-found.github.io/website/posts/002/</guid>
-      <description>&lt;h3 id=&#34;hello-world&#34;&gt;Hello World!&lt;/h3&gt;
+      <description>&lt;p&gt;###Hello World!&lt;/p&gt;
 &lt;p&gt;Fingers crossed that this is finally working&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;And&lt;/li&gt;
